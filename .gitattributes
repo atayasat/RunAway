@@ -1,0 +1,10 @@
+* text=auto
+# Unity için özel ayarlar
+*.cs text diff=csharp
+*.shader text
+*.mat text
+*.meta text
+*.anim text
+*.controller text
+*.prefab text
+*.unity text
